@@ -8,11 +8,12 @@ Nos clients sont des Instituts de recherche publique, des sociétés de biotechn
 
 Née en 2008, SisNcom est basée en Ile de France, issues de travaux menées dans différents laboratoires pharmaceutique ainsi que dû besoin grandissant de gérer des volumes de plus en plus importants d’images.
 
-Nos buts principaux :
-
-Simplifier l’accès à la connaissance via l’imagerie, l’annotation et l’analyse,
-Ne plus perdre des informations du à la dispersion de celle-ci,
-Proposer des solutions en clouds privés ou publics pour un meilleur travail pluridisciplinaire.
-
+<h4>Nos buts principaux :</h4>
+<ul>
+<li>Simplifier l’accès à la connaissance via l’imagerie, l’annotation et l’analyse</li>
+<li>Ne plus perdre des informations du à la dispersion de celle-ci</li>
+<li>Proposer des solutions en clouds privés ou publics pour un meilleur travail pluridisciplinaire</li>
+</ul>
+  
 SisNcom propose des solutions WEB puissantes, économiques, et évolutives pour la visualisation, la communication et l’analyse d’images scientifiques.
 Nos solutions, basées sur les nouvelles technologies de l’informatique, architecture client/serveur, serveur web, intra/extranet, php, MySQL, sont "ouvertes"et économiques, aisément implantables sur tout ordinateur standard, et compatible avec toutes les modalités, quel qu’en soit le constructeur. Elles sont génératrices d’économies substantielles, tout en permettant de disposer de l’outil indispensable aux nouvelles investigations en recherche.
